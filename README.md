@@ -117,14 +117,12 @@ Based on the analysis, several actions could help reduce customer churn:
 customer-churn-prediction/
 │
 ├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── Telco-Customer-Churn.csv
 │
 ├── notebooks/
-│   └── customer_churn_prediction.ipynb
+│   └── Customer_Churn_Prediction.ipynb
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
 ```
 
 ---
