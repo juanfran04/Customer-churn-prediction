@@ -117,7 +117,7 @@ Based on the analysis, several actions could help reduce customer churn:
 customer-churn-prediction/
 │
 ├── data/
-│   └── Telco-Customer-Churn.csv
+│   └── Telco_customer-churn.xlsx
 │
 ├── notebooks/
 │   └── Customer_Churn_Prediction.ipynb
